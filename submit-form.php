@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   }
 
   // Set the recipient email address
-  $to = "youremail@example.com";
+  $to = "rhinoman828@icloud.com";
 
   // Set the email subject
   $subject = "New message from $name";
